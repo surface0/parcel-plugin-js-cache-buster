@@ -1,0 +1,22 @@
+{
+  "name": "parcel-plugin-js-cache-buster",
+  "version": "1.0.0",
+  "description": "Add a cache buster to the JS loader built in Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surface0/parcel-plugin-js-cache-buster.git"
+  },
+  "author": "surface0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surface0/parcel-plugin-js-cache-buster/issues"
+  },
+  "homepage": "https://github.com/surface0/parcel-plugin-js-cache-buster#readme",
+  "peerDependencies": {
+    "parcel-bundler": "~1.5.1"
+  }
+}
