@@ -11,7 +11,7 @@ Add a cache buster to the JS loader built in Parcel
 Install to your project.
 
 ```
-npm i parcel-plugin-js-cache-buster -D
+npm i https://github.com/surface0/parcel-plugin-js-cache-buster -D
 ```
 
 This plugin is automatically loaded when you run the bundle in Parcel.
