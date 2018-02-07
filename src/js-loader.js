@@ -1,6 +1,6 @@
 const JSLoader = require('parcel-bundler/src/builtins/loaders/js-loader');
 
-let ver = process.env.npm_package_parcel_jsVersion;
+var ver = process.env.npm_package_parcel_jsVersion;
 
 switch (ver) {
     case 'timestamp':

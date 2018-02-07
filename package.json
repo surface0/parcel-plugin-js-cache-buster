@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-js-cache-buster",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add a cache buster to the JS loader built in Parcel",
   "main": "index.js",
   "scripts": {
